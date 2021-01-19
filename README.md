@@ -8,4 +8,3 @@ The goal is to predict outcomes of online browsing sessions through session-leve
 To process raw session level data to generate sequence data/sequence models. Use different sequence models RNN, LSTM, GRU and assess performance
 Compare performance of sequence models with session-feature level models.
 
-# Results
